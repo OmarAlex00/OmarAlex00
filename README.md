@@ -13,4 +13,4 @@ Passionate about expanding my knowledge in development and embracing emerging te
 
 Committed to delivering high-quality software solutions and continuously improving in the ever-evolving world of technology 🫡.
 
-Contact me at : **omarashraffci0@gmail.com**
+Contact me at : **omarashraffci0@gmail.com** 📫
