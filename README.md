@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Omar Ashraf. 
+
+Welcome to my Github..
+
+
+**About me :**
+
 Experienced Flutter developer with over a year of hands-on expertise and a background in quality assurance for over a year 😎. 
 
 Passionate about expanding my knowledge in development and embracing emerging technologies 🧐. 
