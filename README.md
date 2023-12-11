@@ -12,3 +12,5 @@ Experienced Flutter developer with over a year of hands-on expertise and a backg
 Passionate about expanding my knowledge in development and embracing emerging technologies 🧐. 
 
 Committed to delivering high-quality software solutions and continuously improving in the ever-evolving world of technology 🫡.
+
+Contact me at : **omarashraffci0@gmail.com**
