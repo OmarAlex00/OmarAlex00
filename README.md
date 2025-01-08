@@ -9,7 +9,7 @@ Welcome to my Github..
 
 
 **About me :**
-- :fire: Experienced Flutter developer with three years of hands-on expertise and a background in quality assurance. 
+- :fire: Experienced Mobile developer with three years of hands-on expertise and a background in quality assurance. 
 - :earth_africa: Lives in Egypt, Cairo
 - :computer: Passionate about expanding my knowledge in development and embracing emerging technologies
 - :e-mail: [Email me](mailto:omarashraffci0@gmail.com) or [Connect on LinkedIn](https://www.linkedin.com/in/omar-ashraf-686170202/)
